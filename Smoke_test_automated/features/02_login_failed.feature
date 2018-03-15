@@ -6,5 +6,5 @@ Feature: login failed
 
 	Examples:
 
-	| email				      | password		|
-	| isaac@labster.com	| isaac12 		|
+	| email		    | password		|
+	| isaac@labster.com | isaac12 		|
