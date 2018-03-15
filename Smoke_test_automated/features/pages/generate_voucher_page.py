@@ -13,8 +13,8 @@ voucherAmountField = (By.ID, 'id_count')
 generateButton = (By.CSS_SELECTOR, 'body > div.container > div > div:nth-child(2) > form > button')
 
 #data
-usernameApi = "isaac"
-passwordApi = "SiHG8Dg4Po"
+usernameApi = ""
+passwordApi = ""
 
 
 def login_api_url(context):
