@@ -7,5 +7,5 @@ Feature: Student should be able to unenroll from his course
 
 	Examples:
 
-	| email 			        	| password	|
+	| email			| password	|
 	| isaac+998@labster.com	| lab2ster	|
