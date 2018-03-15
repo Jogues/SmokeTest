@@ -8,5 +8,5 @@ Feature: Student should be able to use voucher to automatically enroll to the co
 
 	Examples:
 
-	| email			         		| password		| voucherCode	|
+	| email			| password		| voucherCode	|
 	| isaac+94@labster.com	| lab2ster		| NLNW94SHYH	|
