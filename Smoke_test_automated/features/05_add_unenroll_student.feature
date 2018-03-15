@@ -7,7 +7,7 @@ Feature: Enroll and unenroll student to the customer course
 
 	Examples:
 
-	| email				        	| password	| username		|
+	| email			| password	| username		|
 	| isaac+0@labster.com  	| lab2ster	| isaac998		|
 
   Scenario Outline:
