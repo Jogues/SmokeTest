@@ -7,7 +7,7 @@ Feature: Instructor can create new course and apply license
 
 	Examples:
 
-	| email					        | password 		| course		  	|
+	| email			| password 		| course		  	|
 	| isaac+030@labster.com	| lab2ster		| AT 050318			|
 
 
@@ -18,5 +18,5 @@ Feature: Instructor can create new course and apply license
 
 	Examples:
 
-	| consumerKey							               	| secretKey									              | licCode			|
+	| consumerKey					| secretKey					| licCode			|
 	| Ck3084af98-9e4d-8e27-7dca-050f3262cb37	| Skc8a5cb12-49cf-0c81-009e-2961639fa1c3	| XUECRC			|
