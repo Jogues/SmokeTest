@@ -1,9 +1,9 @@
 # SmokeTest
 
 Dependancy:
-*behave
-*python 2.7
-*selenium
+behave
+python 2.7
+selenium
 
 Steps to run the Script
 1. Go to environment.py and modify the location of the Chromedriver
