@@ -7,5 +7,5 @@ Feature: Admin can add CCX coach
 
 	Examples:
 
-	| email        			| password		| instructorUsername|
-	| isaac@labster.com	| lab2ster		| isaac030     			|
+	| email			| password		| instructorUsername	|
+	| isaac@labster.com	| lab2ster		| isaac030     		|
