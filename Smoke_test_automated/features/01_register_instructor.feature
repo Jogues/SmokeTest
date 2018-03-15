@@ -7,5 +7,5 @@ Feature: Register new Instructor account
 
 	Examples:
 
-	| email			 		          | fullname	| username		| password		|
-	| isaac+0011@labster.com	| isaac		  | isaac0011		| lab2ster		|
+	| email				| fullname	| username		| password		|
+	| isaac+0011@labster.com	| isaac		| isaac0011		| lab2ster		|
