@@ -6,8 +6,8 @@ Feature: Student can see CCX course, courseware, course info and theory tabs
 
 	Examples:
 
-	| email							         		| password	|
-	| isaac+999@labster.com					| lab2ster	|
+	| email			| password	|
+	| isaac+999@labster.com	| lab2ster	|
 
   Scenario:
 	Given student already in dashboard page
